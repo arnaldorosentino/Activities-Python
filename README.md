@@ -1,2 +1,2 @@
-# Activities-Python
-Estudos em Python
+# Album-Figurinhas
+Simulação Album Figurinhas Copa do Mundo
